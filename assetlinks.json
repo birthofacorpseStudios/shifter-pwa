@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.birthofcorpsestudios.shifter",
+      "sha256_cert_fingerprints": [
+        "40:A8:F7:1B:BD:BD:88:59:3D:0A:0F:E8:1B:D3:96:30:FC:FF:C0:F5:CC:4F:7B:39:D6:6C:12:24:DF:C7:69:8F"
+      ]
+    }
+  }
+]
